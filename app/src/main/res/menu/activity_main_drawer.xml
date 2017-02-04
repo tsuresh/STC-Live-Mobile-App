@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_school_24dp"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_livestreaming"
+            android:icon="@drawable/ic_videocam_24dp"
+            android:title="Live Streaming" />
+
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_event_note_24dp"
+            android:title="School Calendar" />
+
+        <item
+            android:id="@+id/nav_extra"
+            android:icon="@drawable/ic_star_24dp"
+            android:title="Extra Activities" />
+
+        <item
+            android:id="@+id/nav_live"
+            android:icon="@drawable/ic_videocam_24dp"
+            android:title="Video Gallery" />
+
+        <item
+            android:id="@+id/nav_twitter"
+            android:icon="@drawable/twitter"
+            android:title="Social Feeds" />
+
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_mail_24dp"
+            android:title="Contact College" />
+
+    </group>
+
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_outline_24dp"
+                android:title="About App" />
+        </menu>
+    </item>
+
+</menu>

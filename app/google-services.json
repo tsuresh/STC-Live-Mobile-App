@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1037193543582",
+    "firebase_url": "https://stc-live.firebaseio.com",
+    "project_id": "stc-live",
+    "storage_bucket": "stc-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037193543582:android:09cdf6af41fa9f3d",
+        "android_client_info": {
+          "package_name": "com.stcml.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037193543582-vs9o5orlj5er8upd0dl8ad69unja1o9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbbV_EQQ1X5OuesSA2wSUW1WeikGgZePs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
